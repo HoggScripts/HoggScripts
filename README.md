@@ -26,6 +26,18 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ---
 
+### Udemy Courses 📚
+
+Here are some of the Udemy courses I have completed:
+
+- **[The Ultimate React Course 2024](https://www.udemy.com/course/react-redux/) — Jonas Schmedtmann** 
+- **[The Web Developer Bootcamp 2024](https://www.udemy.com/course/the-web-developer-bootcamp/) — Colt Steele** 
+- **[Ultimate C# Masterclass for 2024](https://www.udemy.com/course/ultimate-csharp-masterclass/) — Krystyna Ślusarczyk**
+- **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) — Dr. Angela Yu** 
+- **[Complete Blender Creator: Learn 3D Modelling for Beginners](https://www.udemy.com/course/blendertutorial/) — GameDev.tv** 
+
+---
+
 ### Stats 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HoggScripts&show_icons=true)
@@ -36,3 +48,4 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 - **MSc in Software Engineering (First Class Honours)** — University of Westminster (2024)
 - **BA in History** — Saint Mary’s University (2014)
+
