@@ -7,7 +7,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 👯 I’m looking to collaborate on: **Open-source and commercial software projects**
 - 💬 Ask me about: **Web development, API integration, .NET, React, and DSA**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-hogg-a1471b308)
-- 📝 Check out my latest [Resume](./BenHoggResume3.pdf)
+- 📝 Check out my latest resume: [EngineeringResumeAlt.pdf](https://github.com/user-attachments/files/17803773/EngineeringResumeAlt.pdf)
+
 - ⚡ Fun fact: I love playing chess, reading fantasy and sci-fi, and coding
 
 ---
