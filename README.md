@@ -14,14 +14,13 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ### Skills & Tools 🛠
 
-- **Full-Stack Web Development**: React, ASP.NET, C#, JavaScript, HTML, CSS, Python, Flask
-- **Cloud Platforms**: Azure, Google Cloud Platform (GCP), Firebase
+- **Full-Stack Web Development**: React, ASP.NET, C#, JavaScript, HTML, CSS, Python
+- **Cloud Platforms**: Azure, Google Cloud Platform, AWS, Firebase
 - **State Management**: Redux Toolkit, Zustand, Tanstack Query
 - **Database Management**: PostgreSQL, SQLite, Firebase Firestore, Microsoft SQL Server, LINQ
 - **API Integration**: Google Calendar, Google Books, RESTful APIs, OAuth 2.0, JWT
 - **Mobile Development**: Swift, XCode, iOS Applications
-- **Testing**: Jest, xUnit, Cypress, Postman, Chrome DevTools
-- **Containerization**: Docker, Kubernetes
+- **Testing**: Postman, Chrome DevTools
 - **Version Control**: Git, GitHub
 
 ---
