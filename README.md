@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! Here's a bit about me:
 
 - 🔭 I’m currently working on: **Full-Stack Development using React, ASP.NET, and Cloud Services**
-- 🌱 I’m currently learning: **Advanced Containerization, Performance Optimization, Web Design, and Mobile Development**
+- 🌱 I’m currently learning: **DSA and Web Development**
 - 👯 I’m looking to collaborate on: **Open-source and commercial software projects**
-- 💬 Ask me about: **Web development, API integration, .NET, and React**
+- 💬 Ask me about: **Web development, API integration, .NET, React, and DSA**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ben-hogg-a1471b308)
 - 📝 Check out my latest [Resume](./BenHoggResume3.pdf)
 - ⚡ Fun fact: I love playing chess, reading fantasy and sci-fi, and coding
